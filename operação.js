@@ -1,8 +1,6 @@
 let a = Number (prompt ("Qual e o numero: ") );
 let b = Number (prompt ("Qual e o proximo numero: ") );
 
-
-
 let soma = a + b; 
 let subtracao = a - b;
 let multiplicacao = a * b;
